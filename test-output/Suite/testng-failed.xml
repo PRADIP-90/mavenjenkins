@@ -8,6 +8,12 @@
           <include name="LoginVerify"/>
         </methods>
       </class> <!-- com.Testing.Demo -->
+      <class name="com.Testing.Demo1">
+        <methods>
+          <include name="verifyTitle"/>
+          <include name="LoginVerify"/>
+        </methods>
+      </class> <!-- com.Testing.Demo1 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
