@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Demo1 {
+public class Demo1Test {
 	WebDriver driver;
 	@Test(priority=1)
 	public void  verifyTitle() throws Exception
